@@ -455,7 +455,7 @@ Application développée dans le cadre d'un projet de formation Flutter.
 
 Pour toute question ou suggestion :
 - 📧 Email : medrhouma1234.com
-- 🐙 GitHub : [votre-username](https://github.com/medrhouma)
+- 🐙 GitHub : (https://github.com/medrhouma)
 
 ---
 
