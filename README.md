@@ -454,8 +454,8 @@ Application développée dans le cadre d'un projet de formation Flutter.
 ## 📞 Contact & Support
 
 Pour toute question ou suggestion :
-- 📧 Email : votre.email@example.com
-- 🐙 GitHub : [votre-username](https://github.com/votre-username)
+- 📧 Email : medrhouma1234.com
+- 🐙 GitHub : (https://github.com/medrhouma)
 
 ---
 
